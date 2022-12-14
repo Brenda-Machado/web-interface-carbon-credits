@@ -1,0 +1,1 @@
+ligo compile storage carbon_cash.mligo '({contract_owner=("tz1ZjYs5cJRGDhU5wzsriiYjWdu9fiMLmG3W" : address); wallet_properties = Big_map.empty; car_wallet = Big_map.empty; balances = Big_map.empty; wallet_cnpj = Big_map.empty;cnpj_wallet = Big_map.empty; allowances = Big_map.empty} : storage)' --entry-point main
